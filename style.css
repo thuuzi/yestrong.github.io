@@ -1,0 +1,33 @@
+html {
+    /* px 表示 “像素（pixels）”: 基础字号为 10 像素 */
+    font-size: 15px;
+    /* Google fonts 输出的 CSS */
+    font-family: 'Liu Jian Mao Cao', cursive;
+    background-color: #00539F;
+  }
+  body {
+    width: 600px;
+    margin: 10px auto;
+    background-color: #FF9500;
+    padding: 10px 50px ;
+    border: 3px solid black;
+  }
+p,li{
+    line-height: 2;
+    letter-spacing: 1px;
+}
+p:hover{
+    color: rgb(95, 216, 25);
+    width: 500px;
+ 
+  }
+  img {
+ 
+    margin: 0 auto;
+  }
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #063cee;
+    text-shadow: 1px 5px 3px black;
+  }
